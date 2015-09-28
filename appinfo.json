@@ -1,0 +1,18 @@
+{
+  "uuid": "270d08f4-a28c-4c7b-8367-5d6335bcba32",
+  "shortName": "graphics-test",
+  "longName": "graphics-test",
+  "companyName": "MakeAwesomeHappen",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["basalt"],
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
